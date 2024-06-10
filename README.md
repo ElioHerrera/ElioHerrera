@@ -2,10 +2,11 @@
 **¡Bienvenido a mi  perfil de GitHub!**
 <div style="position:relative;">
     <img src="fondoGitHub.jpg" alt="Texto alternativo" style="width:100%;">
-    <div style="position:absolute;top:50%;transform:translateY(-50%);left:0;color:white;font-size:28px;text-align:left;padding: 10px; font-family: 'Roboto', sans-serif;">¡Hola! 👋 <br>Soy <b>Elio Herrera</b></div>
+    <div style="position:absolute;top:50%;transform:translateY(-50%);left:0;color:white;font-size:28px;text-align:left;padding: 10px; font-family: 'Roboto', sans-serif;"></div>
 </div>
+## ¡Hola! 👋 Soy <b>Elio Herrera</b>
 
-# 🚀 Desarrollador de Software | 💻 Diseñador Web | 🎨 Diseñador Gráfico
+## 🚀 Desarrollador de Software | 💻 Diseñador Web | 🎨 Diseñador Gráfico
 
 ```java
 // ¿Quién soy? 
