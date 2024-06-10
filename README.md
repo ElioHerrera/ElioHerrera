@@ -1,39 +1,67 @@
-<div style="text-align:center;">
-    <iframe src="https://giphy.com/embed/qTL6FKFRFs9rvNq7qn" width="200" height="200" style="margin-left:auto;margin-right:auto;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-    <p><a href="https://giphy.com/gifs/sparstrom-de-energy-icon-bulb-qTL6FKFRFs9rvNq7qn">via GIPHY</a></p>
+
+**¡Bienvenido a mi  perfil de GitHub!**
+<div style="position:relative;">
+    <img src="fondoGitHub.jpg" alt="Texto alternativo" style="width:100%;">
+    <div style="position:absolute;top:50%;transform:translateY(-50%);left:0;color:white;font-size:28px;text-align:left;padding: 10px; font-family: 'Roboto', sans-serif;">¡Hola! 👋 <br>Soy <b>Elio Herrera</b></div>
 </div>
 
-## Hi there 👋
+#### 🚀 Desarrollador de Software | 💻 Diseñador Web | 🎨 Diseñador Gráfico
 
-
-
-
-# ¡Hola! 👋
-
-¡Bienvenido a mi perfil de GitHub! Mi nombre es Elio Herrera
-
-
-<!--
-**ElioHerrera/ElioHerrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+```java
+// ¿Quién soy? 
+public class ElioHerrera {
+     public static void main(String[] args) {
+         System.out.prinln("Un apasionado desarrollador de software,
+                            diseñador web y diseñador gráfico con 
+                            experiencia en proyectos Java y Angular.");
+}
+```
 ## Mis estadísticas en GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ElioHerrera&show_icons=true&theme=dark)
+    
+## Lenguajes y herramientas
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=ElioHerrera&layout=compact&theme=dark)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark)
+###### 
 
-## Idiomas y herramientas
+## Contacto:
+<a href="https://www.linkedin.com/in/elioherrera" style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin-right: 10px;">linkedin.com/in/elioherrera</a>
 
-Estas son algunas de las tecnologías con las que tengo experiencia:
+<a href="https://www.facebook.com/eliofabianherrera" style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" style="margin-right: 10px;">facebook.com/eliofabianherrera</a>
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dark)](https://github.com/tu_usuario)
+<a href="https://www.instagram.com/eliofabianherrera" style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="margin-right: 10px;">instagram.com/eliofabianherrera</a>
+
+<a href="mailto:herrera.elio@outlook.com" style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Correo Electrónico" style="margin-right: 10px;">herrera.elio@outlook.com</a>
+
+### Resumen
+- 💻 Actualmente estoy trabajando en producto digital "personal" desarrollado en Java y Angular cargado en mi repositorio ProviderApplication.
+- 🌱 Estoy aprendiendo continuamente nuevas tecnologías...
+- 👯 Estoy buscando adquirir mi primer experiencia profesional en este ambito.
+- 💬 Hablemos de lo que quieras, inclusive del trabajo fuera del trabajo.
+
+### Experiencia
+```markdown
+Experiencia y Habilidades:
+```
+- [x]  **Desarrollo Java:** *Poseo habilidades en Java, incluyendo Programación Orientada a Objetos, Testing y MySQL. He completado cursos de Desarrollador Java Inicial e Intermedio en la UTN*.
+- [x]  **Desarrollo Web:** *He desarrollado proyectos web utilizando HTML, CSS, JavaScript y frameworks como Spring Boot*.
+- [x]  **Diseño Gráfico:** *Con experiencia en diseño gráfico, he creado interfaces de usuario atractivas y funcionales*.
+```markdown
+Experiencia Laboral
+```
+- [x]  **Desarrollo Web Independiente:** *He creado y desplegado sitios web para clientes*.
+- [x]  **Gráficas comerciales** *He creado gráficas publicitarias de productos para clientes*.
+- [x]  **Cortador CNC** *Actualmente trabajo de cortador CNC en una Marmoleria mientras desarrollo mis habilidades como programador*.
+Ejecutivo de Cuentas y Administrativo: *Me desempeñe muchos años en el área comercial y administrativa*.
+
+```markdown
+Educación y Formación
+```
+- [x] Universidad: Estudié en la Facultad de Arquitectura, Planeamiento y Diseño de la UNR, donde adquirí conocimientos en diseño y creatividad.
+- [x] Cursos y Certificados: Completé cursos de Venta de Automotores, Ventas y Desarrollador Java, entre otros. También participé en dos cursos de **Argentina Programa 4.0**
+
+    
+---
+```markdown
+>        ¡Gracias por visitar mi perfil!
+```
