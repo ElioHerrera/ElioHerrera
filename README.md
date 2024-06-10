@@ -46,6 +46,16 @@ public class ElioHerrera {
 
 </div>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elioherrera) [LinkedIn](https://www.linkedin.com/in/elioherrera)
+
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/eliofabianherrera) [Facebook](https://www.facebook.com/eliofabianherrera)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eliofabianherrera) [Instagram](https://www.instagram.com/eliofabianherrera)
+
+[![Correo Electrónico](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:herrera.elio@outlook.com) [Correo Electrónico](mailto:herrera.elio@outlook.com)
+
+
+
 ### Resumen
 - 💻 Actualmente estoy trabajando en producto digital "personal" desarrollado en Java y Angular cargado en mi repositorio ProviderApplication.
 - 🌱 Estoy aprendiendo continuamente nuevas tecnologías...
