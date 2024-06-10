@@ -4,7 +4,8 @@
     <img src="fondoGitHub.jpg" alt="Texto alternativo" style="width:100%;">
     <div style="position:absolute;top:50%;transform:translateY(-50%);left:0;color:white;font-size:28px;text-align:left;padding: 10px; font-family: 'Roboto', sans-serif;"></div>
 </div>
-## ¡Hola! 👋 Soy <b>Elio Herrera</b>
+
+## ¡Hola! 👋 Soy **Elio Herrera**
 
 ## 🚀 Desarrollador de Software | 💻 Diseñador Web | 🎨 Diseñador Gráfico
 
@@ -18,8 +19,6 @@ public class ElioHerrera {
 }
 ```
 
-<div style="text-align: center;>
-
 
 # Mis estadísticas en GitHub
 
@@ -27,10 +26,6 @@ public class ElioHerrera {
     
 # Lenguajes y herramientas
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=ElioHerrera&layout=compact&theme=dark)
-
-
-</div>
-
 
 
 ## Contacto:
