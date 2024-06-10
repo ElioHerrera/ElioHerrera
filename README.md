@@ -5,7 +5,7 @@
     <div style="position:absolute;top:50%;transform:translateY(-50%);left:0;color:white;font-size:28px;text-align:left;padding: 10px; font-family: 'Roboto', sans-serif;">¡Hola! 👋 <br>Soy <b>Elio Herrera</b></div>
 </div>
 
-#### 🚀 Desarrollador de Software | 💻 Diseñador Web | 🎨 Diseñador Gráfico
+# 🚀 Desarrollador de Software | 💻 Diseñador Web | 🎨 Diseñador Gráfico
 
 ```java
 // ¿Quién soy? 
@@ -19,50 +19,38 @@ public class ElioHerrera {
 
 <div style="text-align: center;>
 
-## -
 
-
-## Mis estadísticas en GitHub
+# Mis estadísticas en GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ElioHerrera&show_icons=true&theme=dark)
     
-## Lenguajes y herramientas
+# Lenguajes y herramientas
 ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=ElioHerrera&layout=compact&theme=dark)
 
-###### 
+
+</div>
+
+
 
 ## Contacto:
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elioherrera) 
 
-<div style="display: flex; justify-content: center;">
-<a href="https://www.linkedin.com/in/elioherrera" style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin-right: 30px; padding-bottom: 12px"></a>
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/eliofabianherrera) 
 
-<a href="https://www.facebook.com/eliofabianherrera" style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" style="margin-right: 30px;"></a>
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eliofabianherrera)
 
-<a href="https://www.instagram.com/eliofabianherrera" style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="margin-right: 30px;"></a>
-
-<a href="mailto:herrera.elio@outlook.com" style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Correo Electrónico"></a>
-
-</div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elioherrera) [LinkedIn](https://www.linkedin.com/in/elioherrera)
-
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/eliofabianherrera) [Facebook](https://www.facebook.com/eliofabianherrera)
-
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eliofabianherrera) [Instagram](https://www.instagram.com/eliofabianherrera)
-
-[![Correo Electrónico](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:herrera.elio@outlook.com) [Correo Electrónico](mailto:herrera.elio@outlook.com)
+[![Correo Electrónico](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:herrera.elio@outlook.com) 
 
 
 
-### Resumen
+## Resumen
 - 💻 Actualmente estoy trabajando en producto digital "personal" desarrollado en Java y Angular cargado en mi repositorio ProviderApplication.
 - 🌱 Estoy aprendiendo continuamente nuevas tecnologías...
 - 👯 Estoy buscando adquirir mi primer experiencia profesional en este ambito.
 - 💬 Hablemos de lo que quieras, inclusive del trabajo fuera del trabajo.
 
-### Experiencia
+## Experiencia
 ```markdown
 Experiencia y Habilidades:
 ```
