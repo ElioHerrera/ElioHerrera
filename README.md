@@ -1,3 +1,8 @@
+<div style="text-align:center;">
+    <iframe src="https://giphy.com/embed/qTL6FKFRFs9rvNq7qn" width="200" height="200" style="margin-left:auto;margin-right:auto;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <p><a href="https://giphy.com/gifs/sparstrom-de-energy-icon-bulb-qTL6FKFRFs9rvNq7qn">via GIPHY</a></p>
+</div>
+
 ## Hi there 👋
 
 
