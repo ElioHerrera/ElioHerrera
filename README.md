@@ -16,7 +16,14 @@ public class ElioHerrera {
                             experiencia en proyectos Java y Angular.");
 }
 ```
+
+<div style="text-align: center;>
+
+## -
+
+
 ## Mis estadísticas en GitHub
+
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ElioHerrera&show_icons=true&theme=dark)
     
 ## Lenguajes y herramientas
@@ -25,13 +32,19 @@ public class ElioHerrera {
 ###### 
 
 ## Contacto:
-<a href="https://www.linkedin.com/in/elioherrera" style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin-right: 10px;">linkedin.com/in/elioherrera</a>
 
-<a href="https://www.facebook.com/eliofabianherrera" style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" style="margin-right: 10px;">facebook.com/eliofabianherrera</a>
+</div>
 
-<a href="https://www.instagram.com/eliofabianherrera" style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="margin-right: 10px;">instagram.com/eliofabianherrera</a>
+<div style="display: flex; justify-content: center;">
+<a href="https://www.linkedin.com/in/elioherrera" style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin-right: 30px; padding-bottom: 12px"></a>
 
-<a href="mailto:herrera.elio@outlook.com" style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Correo Electrónico" style="margin-right: 10px;">herrera.elio@outlook.com</a>
+<a href="https://www.facebook.com/eliofabianherrera" style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" style="margin-right: 30px;"></a>
+
+<a href="https://www.instagram.com/eliofabianherrera" style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" style="margin-right: 30px;"></a>
+
+<a href="mailto:herrera.elio@outlook.com" style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Correo Electrónico"></a>
+
+</div>
 
 ### Resumen
 - 💻 Actualmente estoy trabajando en producto digital "personal" desarrollado en Java y Angular cargado en mi repositorio ProviderApplication.
